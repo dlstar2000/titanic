@@ -1,0 +1,2 @@
+# titanic
+基于tensorflow编写使用keras进行训练的对泰坦尼克号旅客的生存率进行预测的机器学习项目
